@@ -1,0 +1,13 @@
+bibentry(bibtype = "article",
+         key = "henelius:2016:coreclustering",
+         title = " Clustering with Confidence: Finding Clusters with Statistical Guarantees",
+         author = c(person("Andreas", "Henelius"),
+                    person("Kai", "Puolamäki")
+		    person("Henrik", "Boström"),
+		    person("Panagiotis", "Papapetrou")),
+         year = 2016,
+	 journal = "arXiv e-prints",
+url = "https://arxiv.org/abs/1612.08714",
+eprinttype = "arXiv",
+eprintclass = "stat.ML",
+eprint = "1612.08714")

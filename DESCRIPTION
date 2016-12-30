@@ -1,0 +1,24 @@
+Package: corecluster
+Version: 0.1.0
+Date: 30.12.2016
+Title: Core clustering of datasets.
+Description: Clustering of datasets with statistical guarantees.
+Authors@R: c(person("Andreas", "Henelius", role = c("aut", "cre"), email = "andreas.henelius@ttl.fi"),
+	   person("Kai", "Puolamäki", role = c("aut"), email = "kai.puolamaki@ttl.fi"),
+	   person("Finnish Institute of Occupational Health", role = c("cph")))
+Depends:
+    R (>= 3.0.2),
+    igraph,
+    parallel,
+    clue,
+    utils
+Suggests:
+    e1071,
+    randomForest,
+    tclust,
+    readMLData
+Imports:
+    Rcpp (>= 0.11.5)
+LinkingTo: Rcpp
+License: MIT + file LICENSE
+RoxygenNote: 5.0.1

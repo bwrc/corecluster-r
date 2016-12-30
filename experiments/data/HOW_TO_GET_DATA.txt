@@ -1,0 +1,11 @@
+(1) Install the ReadMLData package and use it to download the following
+UCI datasets:
+
+"iris"
+"yeast"
+"breast-cancer-wisconsin"
+"wine"
+"glass"
+
+(2) Obtain the KDD Cup dataset from
+https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
